@@ -45,6 +45,9 @@ Features Included:
 -Funny gag checkbox that makes you think there are ads and that they could be disabled. There is a way to enable that element to then uncheck it by clicking the correct area. Wonder how many people will read this far.
 
 
+
+
+
 --- If you think this is a cool application and want to help out, here is my Paypal ---
 
 --- paypal.me/Distr0yer ---
