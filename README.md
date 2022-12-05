@@ -2,6 +2,10 @@
 
 This is a YouTube downloader I created after getting tired of dealing with online downloaders. The main function of this application if for downloading music from YouTube Music while it plays in a Chrome tab on the side. It comes with a bunch of little features I have found useful. Hovering over elements in the application will give a description of what their function is. Also included is an audio converter that uses ffmpeg. After starting the application, you will have to give it time to download ffmpeg. After which, the download button will become enabled.
 
+--- If you think this is a cool application and want to help out, here is my Paypal ---
+
+--- paypal.me/Distr0yer ---
+
 How to download:
 
 1. It has two ways to get the Url of a video for downloading.
@@ -43,11 +47,3 @@ Features Included:
 -Clear any folders in the selected downloads folder that DO NOT contain AT LEAST ONE (1) .mp3 file. I included this becaus I had hundreds of folders in my music directory and used musicbrainz to add metadata and clean it up. It didn't delete the now empty folders and going through manually would have been a pain.
 
 -Funny gag checkbox that makes you think there are ads and that they could be disabled. There is a way to enable that element to then uncheck it by clicking the correct area. Wonder how many people will read this far.
-
-
-
-
-
---- If you think this is a cool application and want to help out, here is my Paypal ---
-
---- paypal.me/Distr0yer ---
